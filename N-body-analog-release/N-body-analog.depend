@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1416478703 source:d:\my\project\计划完成\n体运动模拟\n-body-analog22\draw.c
+	"Fun.h"
+
+1417447444 d:\my\project\计划完成\n体运动模拟\n-body-analog22\fun.h
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<gl\glaux.h>
+	<process.h>
+	<math.h>
+	<time.h>
+	"resources/resource.h"
+
+1412509176 d:\my\project\计划完成\n体运动模拟\n-body-analog22\resources\resource.h
+
+1417093957 source:d:\my\project\计划完成\n体运动模拟\n-body-analog22\error.c
+	"Fun.h"
+
+1417446215 source:d:\my\project\计划完成\n体运动模拟\n-body-analog22\function.c
+	"Fun.h"
+
+1412508766 source:d:\my\project\计划完成\n体运动模拟\n-body-analog22\resources\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1417447226 source:d:\my\project\计划完成\n体运动模拟\n-body-analog22\main.c
+	"Fun.h"
+
+1417447444 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\build.c
+	"Fun.h"
+
+1418006790 d:\my\project\计划完成\n体运动模拟\n-body-analog23\fun.h
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<gl\glaux.h>
+	<process.h>
+	<math.h>
+	<time.h>
+	"resources/resource.h"
+
+1412509176 d:\my\project\计划完成\n体运动模拟\n-body-analog23\resources\resource.h
+
+1418006790 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\draw.c
+	"Fun.h"
+
+1417093957 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\error.c
+	"Fun.h"
+
+1418009633 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\function.c
+	"Fun.h"
+
+1412508766 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\resources\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1418006852 source:d:\my\project\计划完成\n体运动模拟\n-body-analog23\main.c
+	"Fun.h"
+
+1418178011 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\build.c
+	"Fun.h"
+
+1418171595 d:\my\project\计划完成\n体运动模拟\n-body-analog24\fun.h
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<gl\glaux.h>
+	<process.h>
+	<math.h>
+	<time.h>
+	"resources/resource.h"
+
+1412509176 d:\my\project\计划完成\n体运动模拟\n-body-analog24\resources\resource.h
+
+1417093957 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\error.c
+	"Fun.h"
+
+1418256043 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\function.c
+	"Fun.h"
+
+1412508766 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\resources\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1418171893 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\main.c
+	"Fun.h"
+
+1418171821 source:d:\my\project\计划完成\n体运动模拟\n-body-analog24\draw.c
+	"Fun.h"
+
+1418178011 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\build.c
+	"Fun.h"
+
+1418171595 d:\my\project\计划完成\n体运动模拟\n-body-analog25\fun.h
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<gl\glaux.h>
+	<process.h>
+	<math.h>
+	<time.h>
+	"resources/resource.h"
+
+1412509176 d:\my\project\计划完成\n体运动模拟\n-body-analog25\resources\resource.h
+
+1418171821 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\draw.c
+	"Fun.h"
+
+1417093957 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\error.c
+	"Fun.h"
+
+1418256107 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\function.c
+	"Fun.h"
+
+1418171893 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\main.c
+	"Fun.h"
+
+1412508766 source:d:\my\project\计划完成\n体运动模拟\n-body-analog25\resources\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1431862344 source:d:\编程软件\代码\科技立项\n-body-analog25\build.c
+	"Fun.h"
+
+1418171595 d:\编程软件\代码\科技立项\n-body-analog25\fun.h
+	<windows.h>
+	<stdio.h>
+	<gl\gl.h>
+	<gl\glu.h>
+	<gl\glut.h>
+	<gl\glaux.h>
+	<process.h>
+	<math.h>
+	<time.h>
+	"resources/resource.h"
+
+1432733013 d:\编程软件\代码\科技立项\n-body-analog25\resources\resource.h
+
+1432732768 source:d:\编程软件\代码\科技立项\n-body-analog25\draw.c
+	"Fun.h"
+
+1417093957 source:d:\编程软件\代码\科技立项\n-body-analog25\error.c
+	"Fun.h"
+
+1418820091 source:d:\编程软件\代码\科技立项\n-body-analog25\function.c
+	"Fun.h"
+
+1432724255 source:d:\编程软件\代码\科技立项\n-body-analog25\main.c
+	"Fun.h"
+
+1432732719 source:d:\编程软件\代码\科技立项\n-body-analog25\resources\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
